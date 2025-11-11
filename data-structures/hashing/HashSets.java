@@ -7,7 +7,7 @@ public class HashSets {
         HashSet<Integer>set=new HashSet<>();
 
         // add element
-        set.add(3);
+        set.add(3); 
         set.add(4);
         set.add(5);
         System.out.println(set);
